@@ -1,3 +1,6 @@
+![Saphira & Sphinx Banner](./ChatGPT%20Image%20Apr%2030,%202025,%2003_45_28%20PM.png)
+
+# Sacred-Quantum-Builder
 # 💠 Sacred Quantum Builder Toolkit
 ## Featuring `$aphira` and `$phinx`
 
