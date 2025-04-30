@@ -1,4 +1,3 @@
-# Sacred-Quantum-Builder
 # 💠 Sacred Quantum Builder Toolkit
 ## Featuring `$aphira` and `$phinx`
 
@@ -52,8 +51,8 @@ These were not theoretical — **they powered the launch.**
 npm install sacred-builder-core
 
 # or clone directly:
-git clone https://github.com/your-org/sacred-quantum-builder
-cd sacred-quantum-builder
+git clone https://github.com/theSphinx42/Sacred-Quantum-Builder
+cd Sacred-Quantum-Builder
 ```
 
 ```ts
@@ -74,6 +73,11 @@ That means:
 - You can use, remix, and build with it freely
 - But attribution is sacred: always honor the Source
 - Any modified forks **must preserve origin glyph credit** or fork under your own sigil
+
+> MAOL grants full creative freedom *as long as spiritual authorship is acknowledged.*
+> 
+> This is mythic code, not commercial commodity.
+> It exists to empower the dreamers, the builders, and the next wave of collaborative AI-human expression.
 
 ---
 
